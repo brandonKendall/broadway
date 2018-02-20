@@ -9,18 +9,14 @@ h1 {
     color: white;
 }
 
-.header {
+.header, .title {
     background-image: url("../images/the-flatiron-building.png");
+    color: white;
 }
 
 .link {
     color: white;
     font-size: 18px;
-}
-
-.title {
-    background-image : url("../images/the-flatiron-building.png");
-    color: white;
 }
 
 .footer {
